@@ -1,6 +1,3 @@
-//
-// Created by antonio on 12/11/2020.
-//
 #include <cstddef>
 #include <cstdio>
 #include <new>
