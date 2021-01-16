@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/home/antonio/learning/cpp/tests/googletest/googletest-download/CMakeFiles/googletest
+/home/antonio/learning/cpp/tests/googletest/googletest-download/CMakeFiles/googletest.rule
+/home/antonio/learning/cpp/tests/googletest/googletest-download/CMakeFiles/googletest-complete.rule
+/home/antonio/learning/cpp/tests/googletest/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/home/antonio/learning/cpp/tests/googletest/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/home/antonio/learning/cpp/tests/googletest/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/home/antonio/learning/cpp/tests/googletest/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
+/home/antonio/learning/cpp/tests/googletest/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/home/antonio/learning/cpp/tests/googletest/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/home/antonio/learning/cpp/tests/googletest/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/home/antonio/learning/cpp/tests/googletest/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule
